@@ -44,20 +44,19 @@ KBC-GAME/
 📥 Setup Instructions
 
 1. Clone the Repository
-
 bash
 Copy
 Edit
 git clone https://github.com/priyanshi20045/KBC-GAME.git
 cd KBC-GAME
-2. Install Required Dependencies
 
+2. Install Required Dependencies
 bash
 Copy
 Edit
 pip install pygame
-3. Run the Application
 
+3. Run the Application
 bash
 Copy
 Edit
