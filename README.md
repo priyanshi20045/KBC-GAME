@@ -4,21 +4,22 @@ A desktop-based quiz application inspired by Kaun Banega Crorepati (KBC). Built 
 
 🚀 Features
 
-Modern Dark Theme UI: Clean and engaging design for a pleasant user experience.
+. Modern Dark Theme UI: Clean and engaging design for a pleasant user experience.
 
-User Login: Personalize your quiz by entering your name.
+. User Login: Personalize your quiz by entering your name.
 
-Category Selection: Choose from Coding, General Knowledge, Movies, and more.
+. Category Selection: Choose from Coding, General Knowledge, Movies, and more.
 
-Randomized Answer Options: Options are shuffled every time to prevent memorization.
+. Randomized Answer Options: Options are shuffled every time to prevent memorization.
 
-Progress Tracking: Progress bar and question counter to monitor your quiz journey.
+. Progress Tracking: Progress bar and question counter to monitor your quiz journey.
 
-Instant Feedback: Get ✅ correct or ❌ incorrect feedback after each question.
+. Instant Feedback: Get ✅ correct or ❌ incorrect feedback after each question.
 
-Sound Effects: Success ding for correct answers and soft buzz for incorrect ones.
+. Sound Effects: Success ding for correct answers and soft buzz for incorrect ones.
 
-Final Scoreboard: Displays total score and performance summary after quiz completion.
+. Final Scoreboard: Displays total score and performance summary after quiz completion.
+
 
 🧰 Tech Stack
 
@@ -27,6 +28,7 @@ GUI	Python Tkinter
 Sound Effects	pygame
 Logic	Python (OOP concepts)
 Data Management	Python Dictionaries
+
 
 📁 Project Structure
 
@@ -41,6 +43,8 @@ KBC-GAME/
 ├── wrong.wav        – Sound effect for incorrect answer
 ├── README.md        – Project documentation
 └── __pycache__/     – Python cache files
+
+
 📥 Setup Instructions
 
 1. Clone the Repository :
