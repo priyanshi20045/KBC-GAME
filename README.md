@@ -69,17 +69,18 @@ python kbc_gui.py
 
 🎁 Application Flow
 
-Enter your name to start the quiz.
+. Enter your name to start the quiz.
 
-Select your preferred category.
+. Select your preferred category.
 
-Answer each question with shuffled options every time.
+. Answer each question with shuffled options every time.
 
-Receive immediate feedback after each response.
+. Receive immediate feedback after each response.
 
-Track progress using the progress bar and question counter.
+. Track progress using the progress bar and question counter.
 
-At the end, see your final score and performance summary.
+. At the end, see your final score and performance summary.
+
 
 👩‍💻 Developed By
 
